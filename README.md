@@ -1,0 +1,1 @@
+A critical analysis of flight data of all commercial flights on major carriers within the USA. The optimal times and days to minimize delays for each year, as well as the impact of aircraft age on delays on a year-to-year basis were examined. A logistic regression model to predict the probability of flight diversions was also developed. 
